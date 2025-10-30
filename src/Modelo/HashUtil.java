@@ -18,3 +18,5 @@ public final class HashUtil {
         }
     }
 }
+
+// Utility: clase sin estado; considerar private constructor para evitar instanciación.
