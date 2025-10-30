@@ -189,3 +189,5 @@ public class ClienteDao {
    }
    
 }
+
+// Ref: SRP - este DAO solo gestiona persistencia de Cliente; reglas de negocio van en servicio.
