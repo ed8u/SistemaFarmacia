@@ -1,1 +1,1 @@
-
+Este Sistema de farmacia gestiona actualmente sus operaciones con registros dispersos y procesos manuales para Productos, Compras, Ventas, Clientes, Empleados, Proveedores, Categorías, Reportes y Perfil. Este enfoque genera demoras en el ingreso y consulta de datos, duplicidad de información entre formularios y listados, errores en cálculos de subtotales y totales, y dificultad para mantener actualizados los productos, clientes y proveedores, afectando la visibilidad operativa y el control básico de la información.  
