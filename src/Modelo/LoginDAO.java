@@ -84,3 +84,5 @@ public class LoginDAO {
         return lista;
     }
 }
+
+// NOTE: Se usa SHA-256 + correo normalizado (trim/lowercase). Evitar exponer pass en memoria.
