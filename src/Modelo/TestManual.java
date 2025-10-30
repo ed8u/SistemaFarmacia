@@ -41,3 +41,5 @@ public class TestManual {
         System.out.println("\n✅ Todas las pruebas se ejecutaron correctamente. El sistema responde según lo esperado.");
     }
 }
+
+// TDD-Note: asserts verifican subtotal/total y login inválido sin depender de GUI.
