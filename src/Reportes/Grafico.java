@@ -46,3 +46,5 @@ public class Grafico {
         }
     }
 }
+
+// Reportes: JFreeChart para KPIs básicos; considerar dataset desacoplado del DAO.
