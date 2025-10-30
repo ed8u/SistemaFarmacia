@@ -133,3 +133,5 @@ public class Detalle {
         this.id_venta = id_venta;
     }
 }
+
+/** Subtotal sugerido: cantidad * precio, calculado en capa de servicio/UI. */
