@@ -1,0 +1,9 @@
+
+# NetBeans/Java
+nbproject/private/
+build/
+dist/
+*.class
+*.log
+.vscode/
+.idea/
