@@ -154,3 +154,5 @@ public class Venta {
     }
 
 }
+
+/** Cálculo de total validado externamente (>=0). Fecha migrable a java.time.* en futuras versiones. */
