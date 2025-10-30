@@ -355,3 +355,5 @@ public class Login extends javax.swing.JFrame {
     private javax.swing.JPasswordField txtPass;
     // End of variables declaration//GEN-END:variables
 }
+
+// UX: validación evita abrir Sistema si id<=0; mensajes de error guiados.
